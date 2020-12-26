@@ -49,7 +49,7 @@ ul li.dropdown{
     display: none;
 }
 
-/* ######### Mobile Compactible Screen ######### */
+/* ######### Mobile Screen ######### */
 
 @media screen and (max-width:650px){
     ul li:not(:nth-child(1)){
